@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Garden</string>
+    <string name="run_code">Get</string>
+    <string name="clear_output">Clear</string>
+</resources>
